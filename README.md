@@ -23,17 +23,16 @@ Here are some ideas to get you started:
 
 📌 Projects:
 
-- Master Thesis - 'Anomaly Detection via Isolation Forest Embedding'
-- [I'm a relative reference to a repository file](https://github.com/LucaZ98/StatappCovid)
-- Social Influence & Pricing
-- Distributed Job Scheduling
-- Bachelor Thesis - 'Localizzazione di scale in planimetrie'
-- Email Classifier - my first project on AI
+- Master Thesis - 'Hierarchical Reinforcement Learning for Multi‑timescale Time Series'
+- [Influence of COVID on Mortality Rates in Italy](https://github.com/LucaZ98/StatappCovid)
+- [Clustering Multivariate Categorical Data: a Graphical Model‑Based Approach](https://github.com/LucaZ98/GraphicalModels-BayesStat)
+- [EUR/USD Exchange Rate Volatility and European Central Bank Monetary Policy](https://github.com/LucaZ98/Econometrics_project)
+- Anomaly Detection on Data Transfer Cells
 
 📢 Contacts:
 
-- LinkedIn
-- manuelsalamino@gmail.com
+- [LinkedIn](https://www.linkedin.com/in/luca-zerman/)
+- lucazerman1998@gmail.com
 
 👦 About me:
 
