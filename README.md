@@ -17,11 +17,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-🎓 Education:
+🎓 **Education**:
 - M.Sc. in Mathematical Engineering - Statistical Learning at Politecnico di Milano
 - Bachelor of Science in Mathematical Engineering at Politecnico di Milano
 
-📌 Projects:
+📌 **Projects**:
 
 - Master Thesis - 'Hierarchical Reinforcement Learning for Multi‑timescale Time Series'
 - [Influence of COVID on Mortality Rates in Italy](https://github.com/LucaZ98/StatappCovid)
@@ -29,15 +29,15 @@ Here are some ideas to get you started:
 - [EUR/USD Exchange Rate Volatility and European Central Bank Monetary Policy](https://github.com/LucaZ98/Econometrics_project)
 - Anomaly Detection on Data Transfer Cells
 
-📢 Contacts:
+📫 **Contacts**:
 
 - [LinkedIn](https://www.linkedin.com/in/luca-zerman/)
 - lucazerman1998@gmail.com
 
-👦 About me:
+👦 **About me**:
 
 🌱 I’m currently learning how to get prepared for a job interview
-🔭 I worked on Anomaly Detection field during my Master Thesis
-🎵 I listen a lot of music
-🏃 I do a lot of sport
-🍸 I worked as bartender in wedding and birthday parties during my Bachelor's and Master's Degree
+📈 I'm working on Reinforcement Learning for trading in my Master Thesis
+🎵 I am an expert singer and composer, as I was a selected violin student at Verona’s Conservatoire
+⛷️ I am really passionate about outdoor activities: all‑round mountaineer, expert skier and hiker
+📸 Instagram and YouTube channel manager concerning my photographic works, also produced with Lightroom and Photoshop
