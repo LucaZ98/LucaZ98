@@ -36,8 +36,8 @@ Here are some ideas to get you started:
 
 👦 **About me**:
 
-🌱 I’m currently learning how to get prepared for a job interview
-📈 I'm working on Reinforcement Learning for trading in my Master Thesis
-🎵 I am an expert singer and composer, as I was a selected violin student at Verona’s Conservatoire
-⛷️ I am really passionate about outdoor activities: all‑round mountaineer, expert skier and hiker
-📸 Instagram and YouTube channel manager concerning my photographic works, also produced with Lightroom and Photoshop
+- 🌱 I’m currently learning how to get prepared for a job interview
+- 📈 I'm working on Reinforcement Learning for trading in my Master Thesis
+- 🎵 I am an expert singer and composer, as I was a selected violin student at Verona’s Conservatoire
+- ⛷️ I am really passionate about outdoor activities: all‑round mountaineer, expert skier and hiker
+- 📸 Instagram and YouTube channel manager concerning my photographic works, also produced with Lightroom and Photoshop
