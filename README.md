@@ -27,7 +27,7 @@ Here are some ideas to get you started:
 - [Influence of COVID on Mortality Rates in Italy](https://github.com/LucaZ98/StatappCovid)
 - [Clustering Multivariate Categorical Data: a Graphical Model‑Based Approach](https://github.com/LucaZ98/GraphicalModels-BayesStat)
 - [EUR/USD Exchange Rate Volatility and European Central Bank Monetary Policy](https://github.com/LucaZ98/Econometrics_project)
-- Anomaly Detection on Data Transfer Cells
+- [Anomaly Detection on Data Transfer Cells](https://github.com/LucaZ98/Anomaly-Detection)
 
 📫 **Contacts**:
 
